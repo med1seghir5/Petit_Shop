@@ -323,20 +323,22 @@
     }
     
     #social3{
+        margin-left: -5px;
+        font-size: 15px;
+        width: 70px;
+        color: #6b7077;
+    }
+    
+    #social2{
         margin-left: -15px;
         font-size: 15px;
         color: #6b7077;
     }
     
-    #social2{
-        margin-left: -13px;
-        font-size: 15px;
-        color: #6b7077;
-    }
-    
     #social5{
-        margin-left: -14px;
+        margin-left: 15px;
         font-size: 15px;
+        width: 75px;
         color: #6b7077;
     }
     
