@@ -1,0 +1,14 @@
+
+export const Background =()=>{
+    return(
+        <div className="container-fix" id="background">
+            <div className="row">
+                <div className="col-12" id="Back">
+                    <div>WELCOME</div>
+                    <div>TO</div>
+                    <div id="ptt">PETIT_SHOP</div>
+                </div>
+            </div>
+        </div>
+    );
+}

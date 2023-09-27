@@ -1,0 +1,622 @@
+.body{
+    margin: 0%;
+    padding: 0%;
+}
+
+#Social{
+    padding-left: 270px;
+    padding-top: 2px;
+    height: 45px;
+    background-image: linear-gradient(#ecf0f1, #bdc3c7);
+    border-bottom-style: outset;
+    border-width: 4px;
+    border-color: #dcdde1;
+}
+
+#social1{
+    color: #6b7077;
+}
+
+#social3{
+    margin-left: 120px;
+    color: #6b7077;
+}
+
+#social2{
+    margin-left: 100px;
+    color: #6b7077;
+}
+
+#social5{
+    margin-left: 110px;
+    color: #6b7077;
+}
+
+#social1:hover{
+    color: #00a8ff;
+    transform: scale(1.1);
+}
+
+#social2:hover{
+    color: #e95950;
+    transform: scale(1.1);
+}
+
+#social3:hover{
+    color: black;
+    transform: scale(1.1);
+}
+
+#social5:hover{
+    color: #e84118;
+    transform: scale(1.1);
+}
+
+#Back{
+    background-image: url("https://c1.wallpaperflare.com/preview/729/304/42/office-desk-workspace-business.jpg");
+    background-size: cover;
+    background-position: 2px -190px;
+    height: 600px;
+    color: #fff;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 100px;
+    font-family:'Bebas Neue', sans-serif;
+    background-color: #2c3e50;
+    border-bottom-style: outset;
+    border-width: 5px;
+}
+
+#Body{
+    background-color: #ecf0f1;
+    background-position: -100px;
+    padding-top: 100px;
+}
+
+#laptop{
+    width: 250px;
+    height: 250px;
+    background-color: #2c3e50;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-left-style: outset;
+    border-width: 5px;
+    border-color: #a5b1c2;
+    border-top-style: outset;
+    border-width: 5px;
+}
+
+#lap{
+    color: #ffffff;
+    font-family: 'Bebas Neue', sans-serif;
+    margin-left: 216px;
+    margin-top: 100px;
+    font-size: 40px;
+}
+
+#Keymouse{
+    width: 250px;
+    height: 250px;
+    background-color: #2c3e50;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-left-style: outset;
+    border-width: 5px;
+    border-color: #a5b1c2;
+    border-top-style: outset;
+    border-width: 5px;
+}
+
+#Key{
+    margin-left: 77px;
+    margin-top: -160px;
+    color: #ffffff;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 35px;
+}
+
+#button1{
+    width: 10px;
+    height: 10px;
+    margin-left: 120px;
+    margin-top: 20px;
+    border-color: #ecf0f1;
+}
+
+#button2{
+    margin-left: 50px;
+    margin-top: 20px;
+    border-color: #ecf0f1;
+}
+
+#button3{
+    margin-top: 20px;
+    border-color: #ecf0f1;
+}
+
+#Monitors{
+    width: 250px;
+    height: 250px;
+    background-color: #2c3e50;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-left-style: outset;
+    border-width: 5px;
+    border-color: #a5b1c2;
+    border-top-style: outset;
+    border-width: 5px;
+}
+
+#Moni{
+    margin-top: -160px;
+    margin-left: 70px;
+    color: #ffffff;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 45px;
+}
+
+#Accessories{
+    width: 250px;
+    height: 250px;
+    background-color: #2c3e50;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px; 
+    margin-top: 150px;
+    margin-left: 120px;
+    border-left-style: outset;
+    border-width: 5px;
+    border-color: #a5b1c2;
+    border-top-style: outset;
+    border-width: 5px;
+    border-color: #bdc3c7;
+}
+
+#Acc{
+    margin-left: 167px;
+    margin-top: 235px;
+    color: #ffffff;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 45px;
+}
+
+#Software{
+    width: 250px;
+    height: 250px;
+    background-color: #2c3e50;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px; 
+    margin-top: 150px;
+    margin-left: 45px;
+    border-left-style: outset;
+    border-width: 5px;
+    border-color: #a5b1c2;
+    border-top-style: outset;
+    border-width: 5px;
+}
+
+#Soft{
+    margin-left: 108px;
+    margin-top: 230px;
+    color: #ffffff;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 45px;
+}
+
+#button5{
+    width: 0px;
+    height: 0px;
+    border-color: #ecf0f1;
+}
+
+#button4{
+    width: 0px;
+    height: 0px;
+    border-color: #dfe4ea;
+}
+
+#Smartphone{
+    width: 250px;
+    height: 250px;
+    background-color: #2c3e50;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px; 
+    margin-top: 150px;
+    margin-left: 60px;
+    border-left-style: outset;
+    border-width: 5px;
+    border-color: #bdc3c7;
+    border-top-style: outset;
+    border-width: 5px;
+}
+
+#button6{
+    height: 0px;
+    width: 0px;
+    margin-left: -60px;
+    border-color: #ecf0f1;
+}
+
+#Smart{
+    margin-left: 40px;
+    margin-top: 230px;
+    color: #ffffff;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 45px;
+}
+
+#Body2{
+    background-image: linear-gradient(#ecf0f1, #bdc3c7);
+    padding-bottom: 280px;
+    border-bottom-style:outset;
+    border-width: 5px;
+}
+
+#Information{
+    background-color:rgb(51, 48, 48);
+    padding-left: 150px;
+    font-family: 'Teko', sans-serif;
+    font-size: 23px;
+    color: #ffffff;
+    border-right: outset;
+    border-width: 5px;
+}
+
+#Inf{
+    width: 270px;
+    height: 100px;
+    margin-left: 70px;
+}
+
+#Contact{
+    padding-left: 200px;
+    padding-top: 25px;
+    font-family: 'Teko', sans-serif;
+    font-size: 35px;
+    color: #2c3e50;
+    border-right: outset;
+    border-width: 5px;
+}
+
+#Prod{
+    margin-left: 490px;
+    font-family:'Bebas Neue', sans-serif;
+    font-size: 65px;
+}
+
+@media screen and (min-width:350px) and (max-width:500px){
+    .body{
+        margin: 0%;
+        padding: 0%;
+    }
+
+    #background{
+        background-color: #ecf0f1;
+    }
+    
+    #Social{
+        padding-top: 5px;
+        padding-left: 287px;
+        height: 70px;
+        background-image: linear-gradient(#ecf0f1, #bdc3c7);
+        border-bottom-style: outset;
+        border-width: 4px;
+        border-color: #dcdde1;
+    }
+    
+    #social1{
+        color: #6b7077;
+        margin-left: -270px;
+        font-size: 15px;
+        width: 105px;
+    }
+    
+    #social3{
+        margin-left: -10px;
+        font-size: 15px;
+        color: #6b7077;
+    }
+    
+    #social2{
+        margin-left: -15px;
+        font-size: 15px;
+        color: #6b7077;
+    }
+    
+    #social5{
+        margin-left: -8px;
+        font-size: 15px;
+        color: #6b7077;
+    }
+    
+    #Back{
+        background-image: url("https://c1.wallpaperflare.com/preview/729/304/42/office-desk-workspace-business.jpg");
+        background-size: cover;
+        background-position: 2px 0px;
+        height: 500px;
+        color: #fff;
+        text-align: center;
+        padding-top: 5px;
+        font-size: 95px;
+        font-family:'Bebas Neue', sans-serif;
+        background-color: #2c3e50;
+        border-bottom-style: outset;
+        border-width: 5px;
+        border-bottom-left-radius: 80px;
+        border-bottom-right-radius: 80px;
+    }
+
+    #ptt{
+        margin-left: 4px;
+    }
+
+    #Prod{
+        margin-left: 70px;
+        font-family:'Bebas Neue', sans-serif;
+        font-size: 45px;
+    }
+    
+    #Body{
+        background-color: #ecf0f1;
+        background-position: -100px;
+        padding-top: 100px;
+
+    }
+        
+    #col1{
+        margin-left: -90px;
+    }
+
+    #col2{
+        margin-top: 300px;
+        margin-left: -50px;
+    }
+
+    #col3{
+        margin-top: 600px;
+        margin-left: -70px;
+    }
+
+    #laptop{
+        width: 250px;
+        height: 250px;
+        background-color: #2c3e50;
+        border-bottom-left-radius: 50px;
+        border-bottom-right-radius: 50px;
+        border-top-left-radius: 50px;
+        border-top-right-radius: 50px;
+        border-left-style: outset;
+        border-width: 5px;
+        border-color: #a5b1c2;
+        border-top-style: outset;
+        border-width: 5px;
+    }
+    
+    #lap{
+        color: #ffffff;
+        font-family: 'Bebas Neue', sans-serif;
+        margin-left: 216px;
+        margin-top: 100px;
+        font-size: 40px;
+    }
+    
+    #Keymouse{
+        width: 250px;
+        height: 250px;
+        background-color: #2c3e50;
+        border-bottom-left-radius: 50px;
+        border-bottom-right-radius: 50px;
+        border-top-left-radius: 50px;
+        border-top-right-radius: 50px;
+        border-left-style: outset;
+        border-width: 5px;
+        border-color: #a4b0be;
+        border-top-style: outset;
+        border-width: 5px;
+        border-color: #bdc3c7;
+    }
+    
+    #Key{
+        margin-left: 140px;
+        margin-top: -200px;
+        color: #ffffff;
+        font-family: 'Bebas Neue', sans-serif;
+        font-size: 35px;
+        text-align: center;
+    }
+    
+    #button1{
+        width: 10px;
+        height: 10px;
+        margin-left: 120px;
+        margin-top: 20px;
+        border-color: #ecf0f1;
+    }
+    
+    #button2{
+        margin-left: 50px;
+        margin-top: 20px;
+        border-color: #ecf0f1;
+    }
+    
+    #button3{
+        margin-top: 20px;
+        border-color: #ecf0f1;
+    }
+    
+    #Monitors{
+        width: 250px;
+        height: 250px;
+        background-color: #2c3e50;
+        border-bottom-left-radius: 50px;
+        border-bottom-right-radius: 50px;
+        border-top-left-radius: 50px;
+        border-top-right-radius: 50px;
+        border-left-style: outset;
+        border-width: 5px;
+        border-color: #a4b0be;
+        border-top-style: outset;
+        border-width: 5px;
+    }
+    
+    #Moni{
+        margin-top: -160px;
+        margin-left: 70px;
+        color: #ffffff;
+        font-family: 'Bebas Neue', sans-serif;
+        font-size: 45px;
+    }
+    
+    #Accessories{
+        width: 250px;
+        height: 250px;
+        background-color: #2c3e50;
+        border-bottom-left-radius: 50px;
+        border-bottom-right-radius: 50px;
+        border-top-left-radius: 50px;
+        border-top-right-radius: 50px; 
+        margin-top: 150px;
+        margin-left: 120px;
+        border-left-style: outset;
+        border-width: 5px;
+        border-color: #a4b0be;
+        border-top-style: outset;
+        border-width: 5px;
+    }
+    
+    #Acc{
+        margin-left: 167px;
+        margin-top: 235px;
+        color: #ffffff;
+        font-family: 'Bebas Neue', sans-serif;
+        font-size: 45px;
+    }
+
+    #Software{
+        width: 250px;
+        height: 250px;
+        background-color: #2c3e50;
+        border-bottom-left-radius: 50px;
+        border-bottom-right-radius: 50px;
+        border-top-left-radius: 50px;
+        border-top-right-radius: 50px; 
+        margin-top: 150px;
+        margin-left: 45px;
+        border-left-style: outset;
+        border-width: 5px;
+        border-color: #a4b0be;
+        border-top-style: outset;
+        border-width: 5px;
+    }
+    
+    #Soft{
+        margin-left: 108px;
+        margin-top: 230px;
+        color: #ffffff;
+        font-family: 'Bebas Neue', sans-serif;
+        font-size: 45px;
+    }
+
+    #button5{
+        width: 0px;
+        height: 0px;
+        border-color: #dfe4ea;
+    }
+    
+    #button4{
+        width: 0px;
+        height: 0px;
+        border-color: #dfe4ea;
+    }
+    
+    #Smartphone{
+        width: 250px;
+        height: 250px;
+        background-color: #2c3e50;
+        border-bottom-left-radius: 50px;
+        border-bottom-right-radius: 50px;
+        border-top-left-radius: 50px;
+        border-top-right-radius: 50px; 
+        margin-top: 150px;
+        margin-left: 60px;
+        border-left-style: outset;
+        border-width: 5px;
+        border-color: #a4b0be;
+        border-top-style: outset;
+        border-width: 5px;
+    }
+    
+    #button6{
+        height: 0px;
+        width: 0px;
+        margin-left: -60px;
+    }
+    
+    #Smart{
+        margin-left: 40px;
+        margin-top: 230px;
+        color: #ffffff;
+        font-family: 'Bebas Neue', sans-serif;
+        font-size: 45px;
+    }
+    
+    #Body2{
+        background-image: linear-gradient(#ecf0f1, #bdc3c7);
+        padding-bottom: 300px;
+        border-bottom-style:outset;
+        border-width: 5px;
+        border-color: #dcdde1;
+    }
+
+    #co1{
+        margin-left: -80px;
+    }
+
+    #co2{
+        margin-top: 300px;
+        margin-left: -50px;
+    }
+
+    #co3{
+        margin-top: 600px;
+        margin-left: -82px;
+    }
+    
+    #Information{
+        background-color:rgb(51, 48, 48);
+        height: 120px;
+        padding-right: -70px;
+        font-family: 'Teko', sans-serif;
+        font-size: 20px;
+        color: #ffffff;
+        border-right: outset;
+        border-width: 5px;
+    }
+    
+    #Inf{
+        width: 270px;
+        height: 100px;
+        margin-left: -127px;
+    }
+    
+    #Contact{
+        padding-left: 5px;
+        padding-top: 25px;
+        font-family: 'Teko', sans-serif;
+        font-size: 21px;
+        color: #2c3e50;
+        border-right: outset;
+        border-width: 5px;
+    }
+}
